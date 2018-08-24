@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         let pod = FirstPod()
         pod.display(text: "ABC")
+
+        "ABC".show()
     }
 
     override func didReceiveMemoryWarning() {

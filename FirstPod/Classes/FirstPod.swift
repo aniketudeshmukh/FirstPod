@@ -8,6 +8,8 @@
 import Foundation
 
 public class FirstPod {
+    public init() { }
+
     public func display(text: String) {
         print(text)
     }

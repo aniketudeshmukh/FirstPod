@@ -2,7 +2,7 @@
   "name": "FirstPod",
   "version": "0.1.0",
   "summary": "Simple First CocoaPod for testing",
-  "description": "This is a smaple cocoapod test project.",
+  "description": "This is a sample cocoapod test project.",
   "homepage": "https://github.com/aniketudeshmukh/FirstPod",
   "license": {
     "type": "MIT",
