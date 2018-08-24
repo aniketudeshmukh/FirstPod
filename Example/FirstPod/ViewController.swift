@@ -7,12 +7,14 @@
 //
 
 import UIKit
+import FirstPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let pod = FirstPod()
+        pod.display(text: "ABC")
     }
 
     override func didReceiveMemoryWarning() {
